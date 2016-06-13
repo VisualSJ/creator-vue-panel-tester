@@ -16,7 +16,7 @@
     "ui": "vue",
     "popable": false,
     "type": "dockable",
-    "title": "vue test",
+    "title": "vue tester",
     "width": 300,
     "height": 480
   }
