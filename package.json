@@ -1,0 +1,23 @@
+{
+  "name": "creator-vue-panel-tester",
+  "version": "0.0.1",
+  "description": "Tester",
+  "author": "VisualSJ",
+  "build": false,
+  "main": "main.js",
+  "main-menu": {
+    "i18n:MAIN_MENU.panel.title/creator-vue-panel-tester": {
+      "icon": "panel/icon.png",
+      "message": "creator-vue-panel-tester:open"
+    }
+  },
+  "panel": {
+    "main": "panel/panel.html",
+    "ui": "vue",
+    "popable": false,
+    "type": "dockable",
+    "title": "vue test",
+    "width": 300,
+    "height": 480
+  }
+}
