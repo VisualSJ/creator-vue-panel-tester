@@ -12,7 +12,7 @@
     }
   },
   "panel": {
-    "main": "panel/panel.html",
+    "main": "panel/panel.js",
     "ui": "vue",
     "popable": false,
     "type": "dockable",
